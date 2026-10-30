@@ -22,7 +22,6 @@ This is an opening for Tobb Technologies. Its services (web platforms, databases
 
 - On the Zonke redevelopment, our team of three added courses, contests and blogs to an existing Laravel/PHP site, after a senior review moved the project from a rebuild to customising the existing codebase.
 - Zonke connects clients with freelancers, and its database links users, jobs and proposals. It is a realistic example of the kind of platform Tobb builds.
-- [Add what you have seen of how Tobb currently finds clients, for example its website, social media or referrals, and confirm whether Tobb already publishes case studies.]
 
 ### 2.3 What the evidence does not show
 
