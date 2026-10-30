@@ -39,5 +39,5 @@ Owners and managers of small and growing businesses that have no website, an out
 | `linkedin-campaign.md` | Five coordinated posts with captions, graphic briefs and calls to action |
 | `follow-up-messages.md` | Consent form wording, three follow-up messages and discovery-call questions |
 | `README.md` | Index of the assets, including the visual brochure and pitch deck |
-| `evidence/README.md` | What proof of completed work is included, and how to reproduce it |
+| `evidence.png` | What proof of completed work is included, and how to reproduce it |
 
