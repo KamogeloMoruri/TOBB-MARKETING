@@ -34,14 +34,10 @@ Owners and managers of small and growing businesses that have no website, an out
 | Path | What it is |
 |---|---|
 | `proposal.md` | Opportunity, justification, solution, implementation, benefits, success measures, citations and references |
-| `marketing-assets/digital-brochure.md` | One-page services brochure for small-business owners |
-| `marketing-assets/website-health-check.md` | The free 12-point health check and report template |
-| `marketing-assets/linkedin-campaign.md` | Five coordinated posts with captions, graphic briefs and calls to action |
-| `marketing-assets/follow-up-messages.md` | Consent form wording, three follow-up messages and discovery-call questions |
-| `marketing-assets/README.md` | Index of the assets, including the visual brochure and pitch deck |
+| `digital-brochure.md` | One-page services brochure for small-business owners |
+| `website-health-check.md` | The free 12-point health check and report template |
+| `linkedin-campaign.md` | Five coordinated posts with captions, graphic briefs and calls to action |
+| `follow-up-messages.md` | Consent form wording, three follow-up messages and discovery-call questions |
+| `README.md` | Index of the assets, including the visual brochure and pitch deck |
 | `evidence/README.md` | What proof of completed work is included, and how to reproduce it |
 
-## Notes
-
-- Items in `[square brackets]` are placeholders for facts only Tobb can supply. No figures have been invented.
-- Sources and links are listed at the end of `proposal.md`.
