@@ -37,10 +37,10 @@ Several surveys are global, B2B-focused or dated (2015 to 2019), and the South A
 
 | Component | Purpose | File |
 |---|---|---|
-| Digital brochure | One-page overview for small-business owners, built around the Zonke case study | `marketing-assets/digital-brochure.md` |
-| Free Website Health Check | A 12-point review that gives a prospect value and shows Tobb's expertise | `marketing-assets/website-health-check.md` |
-| LinkedIn campaign | Five posts that build awareness and send people to the request form | `marketing-assets/linkedin-campaign.md` |
-| Consent-based follow-up | Consent wording, three messages and discovery questions | `marketing-assets/follow-up-messages.md` |
+| Digital brochure | One-page overview for small-business owners, built around the Zonke case study | digital-brochure.md` |
+| Free Website Health Check | A 12-point review that gives a prospect value and shows Tobb's expertise | website-health-check.md` |
+| LinkedIn campaign | Five posts that build awareness and send people to the request form | linkedin-campaign.md` |
+| Consent-based follow-up | Consent wording, three messages and discovery questions | follow-up-messages.md` |
 
 **How it works:** posts and the brochure attract interest, a prospect requests a free health check and ticks a consent box, Tobb delivers the check, and then follows up with a short sequence ending in a discovery call.
 
