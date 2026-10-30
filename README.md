@@ -1,6 +1,6 @@
 # Evidence
 
-This folder holds proof that the work was completed. Add the following files before submitting.
+This folder holds proof that the work was completed. 
 
 ## To add
 
@@ -12,7 +12,4 @@ This folder holds proof that the work was completed. Add the following files bef
 | LinkedIn post mock-ups | `linkedin-post-1.png` to `linkedin-post-5.png` | The campaign graphics |
 | Commit history screenshot | `commit-history.png` | The date-stamped build of this repository |
 
-## Notes
 
-- Only add items that exist. Do not submit placeholders as evidence.
-- Remove any private client or personal details from screenshots.
